@@ -1,8 +1,8 @@
 # Online-Auction-Platform-Winning-Team-
-extract Auction folder to C:\xampp\htdocs\
-run xamp
-start Sql and Apache on xamp
-on your browser go to localhost/phpmyadmin
+1. extract Auction folder to C:\xampp\htdocs\
+2. run xamp
+3. start Sql and Apache on xamp
+4. on your browser go to localhost/phpmyadmin
 create a new database called user_accounts
 import tables on Phpmyadmin  by importing user_accounts.sql file in Auction folder
 after import insert new roles (admin, seller, buyer)
